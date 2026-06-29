@@ -1,0 +1,5 @@
+function revision 
+positional, keyword, default args, *args, **kwargs
+variable scope
+local , global , nonlocal 
+LEGB Rule 
