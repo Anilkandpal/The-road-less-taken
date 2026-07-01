@@ -20,4 +20,4 @@ b = int(sys.argv[2])
 print(
     "sum = ", a + b
 )  # if you go to the termanl and run this commant - python "3 - all fundamentals.py" 10 20 it will run this programm and the sum will be printed
-# however if you run this program in the vs code it will give an error because it is not able to find the arguments 10 and 20. To fix this we can use the following code
+# however   if you run this program in the vs code it will give an error because it is not able to find the arguments 10 and 20. To fix this we can use the following code

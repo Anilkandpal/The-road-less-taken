@@ -40,3 +40,4 @@ second_person = People("Bob", 25, 6.0, 12000)
 People.new_increment(2)
 first_person.increase()
 print(first_person.salary)
+# end
